@@ -1,3 +1,0 @@
-D:/C++ Projects/fullbright-mod/build/CMakeFiles/Fullbright.dir
-D:/C++ Projects/fullbright-mod/build/CMakeFiles/ALL_BUILD.dir
-D:/C++ Projects/fullbright-mod/build/CMakeFiles/ZERO_CHECK.dir
