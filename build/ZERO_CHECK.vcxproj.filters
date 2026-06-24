@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\C++ Projects\fullbright-mod\build\CMakeFiles\aaff8b81da53ec74d1dd167fe891f1e3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{06669009-9D43-3C22-B9D3-4980679D02FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

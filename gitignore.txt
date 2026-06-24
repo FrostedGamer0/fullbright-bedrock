@@ -1,0 +1,11 @@
+# Ignore CMake build directories
+/build/
+/out/
+/.vs/
+
+# Ignore MSVC compiler outputs
+*.obj
+*.pdb
+*.exe
+*.dll
+*.ilk
