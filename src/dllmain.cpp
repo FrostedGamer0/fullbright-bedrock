@@ -4,9 +4,9 @@
 DWORD WINAPI ModThread(LPVOID lpParam) {
     uintptr_t base = Memory::GetBaseAddress(); // 1. Get game base address
     
-    uintptr_t staticModulePointer = base + 0x10C7CEA0; // 2. Calculate the start point of your chain (Base + Red offset in Cheat Engine)
+    uintptr_t staticModulePointer = base + 0x10C7CFE0; // 2. Calculate the start point of your chain (Base + Red offset in Cheat Engine)
 
-    std::vector<unsigned int> brightnessOffsets = { 0xE0, 0x1C8, 0x18 }; // 3. Define offsets from bottom to top (excluding the base module offset)
+    std::vector<unsigned int> brightnessOffsets = { 0xD8, 0x1B8, 0x18 }; // 3. Define offsets from bottom to top (excluding the base module offset)
 
     float customBrightness = 10.0f;
 

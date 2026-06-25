@@ -1,0 +1,20 @@
+
+/*LEFT to RIGHT means BOTTOM to TOP in Cheat Engine*/
+{
+    "1.26.30": {
+        "module_offset": "0x10C7CEA0",
+        "pointer_offset": [
+            "0xE0",
+            "0x1C8",
+            "0x18"
+        ]
+    },
+    "1.26.31": {
+        "module_offset": "0x10C7CFE0",
+        "pointer_offset": [
+            "0xD8",
+            "0x1B8",
+            "0x18"
+        ]
+    }
+}
